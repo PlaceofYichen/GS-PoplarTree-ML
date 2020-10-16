@@ -1,4 +1,4 @@
-# GS_PoplarTree
+# GS_PoplarTree_ML
 
 Learning to build a deep learning model 
 based on the data of poplar tree genotypes, 
