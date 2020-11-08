@@ -23,4 +23,5 @@ also to provide visualization of the prediction results.
 
 - Used the model fitting measure to calculate the loss only instead of accuracy. 
 - The objective function is to reduce the Mean Square Error (MSE) as much as possible.
-- Improving is on the way.
+
+# Improving is on the way.
