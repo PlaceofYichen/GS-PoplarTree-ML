@@ -19,6 +19,7 @@ Learning to build a deep learning model based on the data of poplar tree genotyp
 ### Results
 
 - Please see "results" folder for more.
+![Prediction](/results/prediction/Prediction.png)
 
 ### Conclusions
 
