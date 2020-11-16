@@ -18,7 +18,7 @@ Learning to build a deep learning model based on the data of poplar tree genotyp
 
 ### Notes
 
-- Used the model fitting measure to calculate the loss only instead of accuracy. 
+- Using the model fitting measure to calculate the loss instead of accuracy. 
 - The objective function is to reduce the Mean Square Error (MSE) as much as possible.
 
 ### More implementation is on the way.
