@@ -16,9 +16,23 @@ Learning to build a deep learning model based on the data of poplar tree genotyp
 - Compare the results between two different models;
 - Conlude and discuss.
 
+### Results
+
+- Please see "results" folder for more.
+
+### Conclusions
+
+- The performance on 'Rdilight25' datasets is competently well overall;
+- The smaller the p-value, the stronger stability of the model, and the better the relative comprehensive performance.
+
+### Discussions
+
+-  The possible reason for the limitation of the model is that the dataset is not sufficiently large. Theoretically speaking, the model will perform better on a large dataset;
+- Models like Linear Regression could also be applied to this problem.
+
 ### Notes
 
 - Using the model fitting measure to calculate the loss instead of accuracy. 
 - The objective function is to reduce the Mean Square Error (MSE) as much as possible.
 
-### More implementation is on the way.
+## More implementation is on the way.
