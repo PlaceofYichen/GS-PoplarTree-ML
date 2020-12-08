@@ -21,7 +21,7 @@ Learning to build a deep learning model based on the data of poplar tree genotyp
 - Please see [results](https://github.com/PlaceofYichen/GS_PoplarTree_ML/tree/main/results) for details.
 Examples:
 ![Prediction](/results/prediction/Prediction.png)
-![MSE&R^2](/results/MSE&R2.png)
+![MSE&R^2](/results/MSE&R^2.png)
 ![loss_CNN_RF_1E-4](/results/loss/loss_CNN_RF_1E-4.png)
 ![ValLoss_CNN_RF_1E-3](/results/val_loss/ValLoss_CNN_RF_1E-3.png)
 
