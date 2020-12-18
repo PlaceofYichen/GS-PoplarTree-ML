@@ -8,6 +8,7 @@ Learning to build a deep learning model based on the data of poplar tree genotyp
 - Three thresholds: "1e-05", "1e-04" and "0.001".
   
 ### Procedures
+
 ![Pipeline](/results/pipeline.png)
 - Firstly, we start with selecting one trait from the Poplar datasets, because we want to illustrate the general idea of building this model;
 - Step by step, we read the selected data, prepare the data, build the CNN model and train the model, make prediction, and visualize the results;
@@ -32,7 +33,7 @@ Examples:
 
 ### Discussions
 
--  The possible reason for the limitation of the model is that the dataset is not sufficiently large. Theoretically speaking, the model will perform better on a large dataset;
+- The possible reason for the limitation of the model is that the dataset is not sufficiently large. 
 - Models like Linear Regression could also be applied to this problem.
 
 ### Notes
