@@ -8,7 +8,7 @@ Learning to build a deep learning model based on the data of poplar tree genotyp
 - Three thresholds: "1e-05", "1e-04" and "0.001".
   
 ### Procedures
-
+![Pipeline](/results/pipeline.png)
 - Firstly, we start with selecting one trait from the Poplar datasets, because we want to illustrate the general idea of building this model;
 - Step by step, we read the selected data, prepare the data, build the CNN model and train the model, make prediction, and visualize the results;
 - Then, we move to and work on the whole dataset, which contains 5 traits and 3 p-values. We apply the model to each traits and compare the results of the traits. Results are visualized, too;
@@ -20,7 +20,6 @@ Learning to build a deep learning model based on the data of poplar tree genotyp
 
 - Please see [results](https://github.com/PlaceofYichen/GS_PoplarTree_ML/tree/main/results) for details.
 Examples:
-![Pipeline](/results/pipeline.png)
 ![Prediction](/results/prediction/Prediction.png)
 ![MSE&R](/results/MSE&R.png)
 ![loss_CNN_RF_1E-4](/results/loss/loss_CNN_RF_1E-4.png)
