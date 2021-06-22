@@ -1,4 +1,4 @@
-# GS_PoplarTree_ML
+# GS-PoplarTree-ML
 
 Learning to build a deep learning model based on the data of poplar tree genotypes, then to predict the phenotypes for them by building a Convolutional Neural Network(CNN) model; also to provide visualization of the prediction results.
 
